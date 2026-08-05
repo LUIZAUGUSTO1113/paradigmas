@@ -5,9 +5,9 @@ Link: https://www.linkedin.com/jobs/view/4415676787/
 ### Variação Salarial
 
 Variação por Nível de Experiência (Brasil)
-Júnior: R$ 4.000 a R$ 7.000 por mês.
-Pleno: R$ 7.000 a R$ 12.000 por mês.
-Sênior: R$ 12.000 a R$ 18.000 por mês.
+- Júnior: R$ 4.000 a R$ 7.000 por mês.
+- Pleno: R$ 7.000 a R$ 12.000 por mês.
+- Sênior: R$ 12.000 a R$ 18.000 por mês.
 
 ### Paradigmas da linguagem
 
