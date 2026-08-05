@@ -1,6 +1,6 @@
 ### Vaga de Desenvolvedor GO
 
-Link: https://www.linkedin.com/jobs/view/4443612706/
+Link: https://www.linkedin.com/jobs/view/4415676787/
 
 ### Variação Salarial
 
